@@ -94,16 +94,3 @@ To use this model, follow these steps:
 2. Install the required libraries.
 3. Prepare your dataset in the specified structure.
 4. Run the Jupyter Notebook to train and evaluate the model.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Citations:
-[1] https://github.com/DucLeTrong/food101-classification
-[2] https://github.com/Adesoji1/Food-Image-Classification
-[3] https://github.com/stratospark/food-101-keras
-[4] https://github.com/Pramit726/MobileNetV2-FoodClassifier
-[5] https://www.kaggle.com/code/theimgclist/multiclass-food-classification-using-tensorflow
-[6] https://developmentseed.org/tensorflow-eo-training/docs/Lesson3_deeplearning_crop_segmentation.html
-[7] https://www.kaggle.com/code/theeyeschico/food-classification-using-tensorflow
-[8] https://perpustakaan.unaja.ac.id/uploaded_files/temporary/DigitalCollection/ZmY0MDExMDM3YmExNzI2YTRhZjE0NTIyODUxYzI5NDYyN2M1MDVhZQ==.pdf
