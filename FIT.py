@@ -41,7 +41,7 @@ st.markdown(
     .main {background-color: #f9f9f9; font-family: 'Arial', sans-serif; padding-top: 30px;}
     .stButton>button {background-color: #ff5733; color: white; font-size: 16px; border-radius: 10px; padding: 10px 20px;}
     .stMarkdown h2 {color: #4CAF50; font-weight: bold;}
-    .stMarkdown h3, .stMarkdown h4 {color: black; font-weight: bold;}  /* Updated to black text */
+    .stMarkdown h3, .stMarkdown h4 {color: white; font-weight: bold;}  /* Updated to black text */
     .sidebar .sidebar-content {background-color: #fff8e1; padding: 20px; border-radius: 10px;}
     .stProgress>div {border-radius: 5px; background-color: #ff5733;}  /* Single color progress bar */
     .image-container {border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);}
